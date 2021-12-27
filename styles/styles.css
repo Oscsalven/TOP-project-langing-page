@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: right;
+    gap: 21px;
+    list-style-type: none;
+}
+
+#first-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+}
+
+.front-image {
+    height: 250px;
+    width: auto;
+}
+
+/* .left-column, .right-column {
+    padding-top: 8px;
+} */
