@@ -97,3 +97,29 @@ body {
     border: 5px solid #3882f6;
     border-radius: 10px;
 }
+
+/* Third Container */
+
+.third-container {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.quote {
+    width: 550px;
+}
+
+.quote-text {
+    font-size: 30px;
+    margin: 0;
+    text-align: justify;
+}
+
+.quote-author {
+    text-align: right;
+    font-size: 20px;
+    margin: 0;
+}
