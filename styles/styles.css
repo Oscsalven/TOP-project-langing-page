@@ -123,3 +123,29 @@ body {
     font-size: 20px;
     margin: 0;
 }
+
+/* Fourth container */
+
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 85px;
+}
+
+.sign-up-box {
+    background-color: #3882f6;
+    padding: 30px 70px;
+    display: flex;
+    gap: 150px;
+    border-radius: 10px;
+}
+
+.sign-up-header, .sign-up-description {
+    margin: 0;
+    color: #F9FAF8;
+}
+
+.btn-2 {
+    border: 3px solid #F9FAF8;
+}
