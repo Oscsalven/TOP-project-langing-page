@@ -149,3 +149,18 @@ body {
 .btn-2 {
     border: 3px solid #F9FAF8;
 }
+
+/* Fifth Container */
+
+.fifth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 20px;
+}
+
+.footer {
+    color: #E5E7EB;
+    font-size: 18px;
+}
